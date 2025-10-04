@@ -25,4 +25,5 @@ A beautiful, responsive weather dashboard built with HTML, CSS, and JavaScript.
 Our weather dashboard features intelligent city matching:
 - **State Name Recognition**: When users search for a state (like "California"), the app automatically fetches weather data from the capital city
 - **User-Friendly**: No need to know exact city names - the API intelligently finds the most relevant location
-- **Global Coverage**: Works with states/provinces worldwide, providing the best possible weather data
+
+- **Global Coverage**: Works with states/provinces worldwide, providing the best possible weather data.
